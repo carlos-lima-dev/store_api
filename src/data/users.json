@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "charlie",
+    "email": "carlo@gmail.com",
+    "password": "$2b$07$noQ9TMdqLvX4yofg4GSVye2upWvbOKMm5zE1P.JUjJ9x7StVcLy1i",
+    "avatar": "ed439d88-28d2-4ffe-93c9-40d139cddb49.jpeg",
+    "role": "USER"
+  },
+  {
+    "id": 2,
+    "name": "carlos",
+    "email": "carloslima.ptit@gmail.com",
+    "password": "$2b$07$8CkqN7UuChhlYODv63tvOOnVfcZgvr4TCQxooY2vaGf/cflXO5xPC",
+    "avatar": "default.jpg"
+  },
+  {
+    "id": 3,
+    "name": "kate",
+    "email": "kate@gmail.com",
+    "password": "$2b$07$8GlpLGqUz1p7BXOArvUhm.Sj9HoOt24iVtF4SjWyNc8d.4VYQeZaq",
+    "avatar": "default.jpg"
+  }
+]
